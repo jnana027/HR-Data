@@ -11,5 +11,7 @@ Data Cleaning & Analysis:
 This was done on SQL server 2024 involving
 
 Data loading & inspection
+
 Handling missing values
+
 Data cleaning and analysis
