@@ -161,9 +161,13 @@ UPDATE [My DataBase].[dbo].[HR] SET
     age=DATEDIFF(year,birthdate,GETDATE())
 
     Exploratory Data Analysis
+    
 Questions:
-What's the age distribution in the company?
-What's the gender breakdown in the company?
+
+1.What's the age distribution in the company?
+
+2.What's the gender breakdown in the company?
+
 How does gender vary across departments and job titles?
 What's the race distribution in the company?
 What's the average length of employment in the company?
