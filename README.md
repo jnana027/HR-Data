@@ -5,3 +5,11 @@ This project dives deep into the realm of data analysis using SQL and Power BI t
 Source Data:
 
 The source data contained Human Resource 22000 records from 2000 to 2020. This is included in the repository.
+
+Data Cleaning & Analysis:
+
+This was done on SQL server 2024 involving
+
+Data loading & inspection
+Handling missing values
+Data cleaning and analysis
